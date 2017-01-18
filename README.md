@@ -1,1 +1,1 @@
-# expath-digital-publishing-spec
+# EXPath Digital Publishing Specification, see http://kuberam.ro/specs/expath/digital-publishing/digital-publishing.html.
